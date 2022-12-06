@@ -1,6 +1,6 @@
 package MIU;
 
-public class FIrst7CubePowerful {
+public class FIrst8CubePowerful {
 	static int isCubePowerful (int n) {
 		if (n == 1) return 1;
 		if(n < 10) return 0;

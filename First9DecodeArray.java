@@ -1,6 +1,6 @@
 package MIU;
 
-public class First8DecodeArray {
+public class First9DecodeArray {
 
 	static int decodeArray (int [] a) {
 		if(a.length == 0) return 0;
